@@ -13,7 +13,7 @@ config :hiyoko, HiyokoWeb.Endpoint,
   secret_key_base: "5iYo6aqGK0MVQFhUg+/mD14xhnpIcpbwwC9QsoqTM6FMVFGrcIe+u4w7ZYTY1sQp",
   render_errors: [view: HiyokoWeb.ErrorView, accepts: ~w(html json), layout: false],
   pubsub_server: Hiyoko.PubSub,
-  live_view: [signing_salt: "+HzAB7mP"]
+  live_view: [signing_salt: "bxwVZ1bgCTxD0n+0cXJzTAwPN4KB/srq"]
 
 # Configures Elixir's Logger
 config :logger, :console,
