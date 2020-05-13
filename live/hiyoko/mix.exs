@@ -44,6 +44,7 @@ defmodule Hiyoko.MixProject do
       {:gettext, "~> 0.11"},
       {:jason, "~> 1.0"},
       {:smallex, "~> 0.2.3" },
+      {:calendar, "~> 0.17.6"},
       {:plug_cowboy, "~> 2.0"}
     ]
   end

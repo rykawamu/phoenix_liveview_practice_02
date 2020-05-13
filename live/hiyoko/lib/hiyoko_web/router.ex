@@ -20,6 +20,7 @@ defmodule HiyokoWeb.Router do
     live "/", PageLive, :index
 
     live "/connpass", Connpass
+    live "/fizzbuzz", FizzbuzzLive
   end
 
   # Other scopes may use custom stacks.

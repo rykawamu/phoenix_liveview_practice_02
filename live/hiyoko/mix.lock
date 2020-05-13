@@ -1,4 +1,5 @@
 %{
+  "calendar": {:hex, :calendar, "0.17.6", "ec291cb2e4ba499c2e8c0ef5f4ace974e2f9d02ae9e807e711a9b0c7850b9aee", [:mix], [{:tzdata, "~> 0.5.20 or ~> 0.1.201603 or ~> 1.0", [hex: :tzdata, repo: "hexpm", optional: false]}], "hexpm", "738d0e17a93c2ccfe4ddc707bdc8e672e9074c8569498483feb1c4530fb91b2b"},
   "certifi": {:hex, :certifi, "2.5.1", "867ce347f7c7d78563450a18a6a28a8090331e77fa02380b4a21962a65d36ee5", [:rebar3], [{:parse_trans, "~>3.3", [hex: :parse_trans, repo: "hexpm", optional: false]}], "hexpm", "805abd97539caf89ec6d4732c91e62ba9da0cda51ac462380bbd28ee697a8c42"},
   "combine": {:hex, :combine, "0.10.0", "eff8224eeb56498a2af13011d142c5e7997a80c8f5b97c499f84c841032e429f", [:mix], [], "hexpm", "1b1dbc1790073076580d0d1d64e42eae2366583e7aecd455d1215b0d16f2451b"},
   "cowboy": {:hex, :cowboy, "2.7.0", "91ed100138a764355f43316b1d23d7ff6bdb0de4ea618cb5d8677c93a7a2f115", [:rebar3], [{:cowlib, "~> 2.8.0", [hex: :cowlib, repo: "hexpm", optional: false]}, {:ranch, "~> 1.7.1", [hex: :ranch, repo: "hexpm", optional: false]}], "hexpm", "04fd8c6a39edc6aaa9c26123009200fc61f92a3a94f3178c527b70b767c6e605"},
