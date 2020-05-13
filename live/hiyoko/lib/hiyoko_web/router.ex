@@ -18,6 +18,8 @@ defmodule HiyokoWeb.Router do
     pipe_through :browser
 
     live "/", PageLive, :index
+
+    live "/connpass", Connpass
   end
 
   # Other scopes may use custom stacks.
